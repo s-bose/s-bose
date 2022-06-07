@@ -29,7 +29,7 @@ and implementing new projects to help myself and others.
 
 
 ### Social
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/s-bose)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiladitya-bose/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' height='40' width='40'>](https://stackoverflow.com/users/5094261/shiladitya-bose)
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/s-bose)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiladitya-bose/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/shiladityabasu)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' height='40' width='40'>](https://stackoverflow.com/users/5094261/shiladitya-bose)
 
 
 
