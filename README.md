@@ -34,7 +34,16 @@ and implementing new projects to help myself and others.
 
 
 <!-- Got to know about this following part from user @timashan (https://github.com/timashan) -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-bose&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="s-bose" /></div>
+<div align="center"><img id='streakimg' src="https://github-readme-streak-stats.herokuapp.com/?user=s-bose&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="s-bose" /></div>
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=s-bose&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="s-bose" /></div>
+<div align="center"><img id='statsimg' src="https://github-readme-stats.vercel.app/api?username=s-bose&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="s-bose" /></div>
+
+<script>
+    colormode = document.documentElement.getAttribute('data-color-mode')
+    if (colormode === 'light') {
+        document.getElementById('streakimg').src = 'https://github-readme-streak-stats.herokuapp.com/?user=s-bose&theme=dracula&hide_border=true&stroke=0000&background=FFFFFF&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf'
+        document.getElementById('statsimg').src = 'https://github-readme-stats.vercel.app/api?username=s-bose&show_icons=true&theme=dracula&hide_border=true&bg_color=FFFFFF'
+    }
+
+</script>
