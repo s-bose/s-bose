@@ -8,7 +8,7 @@
 
 * I love building stuffs, sometimes they work, sometimes they barely work. But the serotonin rush from finally having an idea come to conception is worth it. However I especially love working with data, be it data collection, wrangling, analytics, or interfacing with databases to build RESTful APIs, and sometimes feeding data to our AI overlords.
 
-* Apart from coding, I also like to read, sketch, write. Speaking of writing, check out my [blog](http://s-bose.github.io/)
+* Apart from coding, I also like to read, sketch, write. Speaking of writing, check out my [portfolio](https://s-bose.github.io/), and [blog](https://s-bose.github.io/blog)
 
 I have been recently getting into Data Science and constantly exploring new and interesting ideas. I love the open source community and try to do my best in keeping my productivity juices flowing, learning more each day
 and implementing new projects to help myself and others.
