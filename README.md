@@ -2,8 +2,8 @@
 ### I am a junior Software Developer based in Kolkata, India. Welcome to my Github!
 
 **Quick introduction.**
-* I am currently working as Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/).
-* My responsibilities include server administration, creating and maintaining data collecting & processing pipelines, building backend APIs and more.
+* I am currently working as a Backend Engineer at [Raft](https://raft.ai/).
+
 * I have done by Masters and Bachelors in Computer Science from [University of Calcutta](https://www.caluniv.ac.in/), where during my master's I specialized in deep learning, specifically researching computer vision and AI-assisted solutions to medical imaging.
 
 * I love building stuffs, sometimes they work, sometimes they barely work. But the serotonin rush from finally having an idea come to conception is worth it. However I especially love working with data, be it data collection, wrangling, analytics, or interfacing with databases to build RESTful APIs, and sometimes feeding data to our AI overlords.
