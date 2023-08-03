@@ -1,30 +1,34 @@
 ## Hi there 👋
-### I am a junior Software Developer based in Kolkata, India. Welcome to my Github!
+### I am a Software Developer based in Kolkata, India. Welcome to my Github!
 
 **Quick introduction.**
-* I am currently working as a Backend Engineer at [Raft](https://raft.ai/).
+* I am currently working as a Software Engineer at [Raft](https://raft.ai/). My primary responsibilities include building and maintaining cloud-native backend and full-stack applications and developing robust integrations across different microservices.
 
-* I have done by Masters and Bachelors in Computer Science from [University of Calcutta](https://www.caluniv.ac.in/), where during my master's I specialized in deep learning, specifically researching computer vision and AI-assisted solutions to medical imaging.
-
-* I love building stuffs, sometimes they work, sometimes they barely work. But the serotonin rush from finally having an idea come to conception is worth it. However I especially love working with data, be it data collection, wrangling, analytics, or interfacing with databases to build RESTful APIs, and sometimes feeding data to our AI overlords.
-
-* Apart from coding, I also like to read, sketch, write. Speaking of writing, check out my [portfolio](https://s-bose.github.io/), and [blog](https://s-bose.github.io/blog)
-
-I have been recently getting into Data Science and constantly exploring new and interesting ideas. I love the open source community and try to do my best in keeping my productivity juices flowing, learning more each day
-and implementing new projects to help myself and others.
-
-
+* I love building stuff, sometimes they work, sometimes they barely work. But the serotonin rush from finally having an idea come to conception is worth it. I am especially fond of system design and backend development and can spend countless hours writing REST APIs and staring at the beautiful swagger UI (they are the best creation ever!)
+  
+* I have been recently getting into Rust and constantly exploring new and interesting ideas. I love the open-source community and try to take part whenever possible, learning more each day and building new projects to help myself and others.
 <br/>
 
 ### Skills
 
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998)
 ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-419586?style=for-the-badge&labelColor=white&logo=fastapi&logoColor=419586)
-![TensorFlow Badge](https://img.shields.io/badge/-C++-0A4182?style=for-the-badge&labelColor=white&logo=cplusplus&logoColor=0A4182)
-![Pandas Badge](https://img.shields.io/badge/-Pandas-dd1286?style=for-the-badge&labelColor=white&logo=pandas&logoColor=160762)
-![NumPy Badge](https://img.shields.io/badge/-Numpy-efc53b?style=for-the-badge&labelColor=306998&logo=numpy&logoColor=efc53b)
-
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
 
 
