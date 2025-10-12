@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a Software Developer based in Kolkata, India. Welcome to my Github!
+### I am a Software Developer from India. Welcome to my Github!
 
 **Quick introduction.**
 * I am currently working as a Software Engineer at [Raft](https://raft.ai/). My primary responsibilities include building and maintaining cloud-native backend and full-stack applications and developing robust integrations across different microservices.
